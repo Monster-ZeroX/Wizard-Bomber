@@ -1,19 +1,43 @@
-<h1 align="center">D bomber</h1>
-<p align="center">A SMS bomber For Sri Lankan Numbers.</p><br>
+<h1 align="center">Danuma Bomber</h1>
 
+<p align="center">  A SMS bomber For Sri Lankan Numbers.</p><br>
 
+## User Note to Termux :
 
-### > For Termux:
+```bhash
 
-**Notice:** 
+phk update && apt upgrade 
 
-To Use The Bomber Type The Following Commands In Termux:
-```
-apt update && apt upgrade -y
-apt install git python -y
-git clone https://github.com/InukaAsith/infinitybomber.git
-cd infinitybomber
+pkg install git python
+
+git clone https://github.com/SLdevilX/Dbomber.git
+
 pip3 install -r requirements.txt
-python infinitybomber.py
+
+cd Dbomber
+
+ls
+
+python db.py
+
 ```
 
+___
+
+____
+
+**Only use it to educational purposes**
+
+<p style="color:green ">Copyright Lasiya®</p>
+
+<p style="color:#33FF66">Join our group.</p>
+
+<a href="https://t.me/danuma01"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+#
+
+<a href="https://t.me/D_bot_Ai"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+___
+
+___
